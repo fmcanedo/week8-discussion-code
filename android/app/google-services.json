@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1071160425340",
+    "project_id": "cmsc23-fmcanedo",
+    "storage_bucket": "cmsc23-fmcanedo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071160425340:android:0591c0a454476323f1c2f9",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071160425340-uc1j2s4vjdkpf6q19oo3h7dsrdogodgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvOF_i7in0FxEhkfjIUFl1EJfnWAmhFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071160425340-uc1j2s4vjdkpf6q19oo3h7dsrdogodgu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071160425340-t1f44jqmv76voes9ghn11q68kuvsqopm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week7NetworkingDiscussion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
